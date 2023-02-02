@@ -1,0 +1,14 @@
+To run this application you need to follow below steps - 
+
+1) Go to the backend directory and type "npm run dev" in the terminal to start the backend server.
+2) Go to the frontend directory and type "npm run start" in the terminal to start the frontend server.
+3) Application will be running on the localhost:3000 port.
+
+
+//Tech used - 
+1) Node Js
+2) Express Js
+3) Rest APIs
+3) React Js
+4) MongoDB Atlas
+5) Bootstrap

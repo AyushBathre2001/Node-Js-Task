@@ -1,0 +1,77 @@
+.main{
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(to bottom,rgb(200, 243, 255),white);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.choice{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main h1{
+  font-size: 4vw;
+  font-weight: 700;
+  color:rgb(88, 88, 88);
+  margin-bottom: 30px;
+}
+
+.Navbar{
+  width: 100%;
+  box-shadow: 0px 2px 5px gray;
+  z-index: 99;
+  position: fixed;
+  top:0;
+
+}
+
+.user{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user form{
+  padding: 40px;
+  width: 40%;
+  box-shadow: 0px 0px 5px gray;
+  border-radius: 12px;
+}
+
+.assign{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.assign form{
+  width: 40%;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0px 0px 5px gray;
+}
+
+.sheets{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background:linear-gradient(to bottom,rgb(219, 255, 219),white);
+}
+.btt{
+  display: flex;
+  margin-bottom: 20px;
+}
